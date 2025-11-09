@@ -4,10 +4,10 @@
 
 
 
-<div align="center" >
-
- ![](https://view-counter.tobyhagan.com/?user={tarinagarwal}&accent=109940&base=303030&flat=true&icon=true)
-
+<div align="center">
+  <a href="https://tarinagarwal.in/" target="_blank">
+<img src="https://stats.maximjsx.com/api?username=tarinagarwal&theme=forest_winter&dark_bg=3&hide_border=false&height=230&include_all_commits=true&update=2">
+  </a>
 </div>
 <h1 align="center">
   Full Stack Web Developer | Game Developer
@@ -87,11 +87,6 @@
 
 </div>
 
-<div align="center" >
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarinagarwal\&rank_icon=github\&include_all_commits=true\&theme=dark)
-
-</div>
 
 <div align="center" >
 
