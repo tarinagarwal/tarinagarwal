@@ -25,11 +25,11 @@
 
 <div align="center">
 
-<a href="https://github.com/tarinagarwal"><img src="https://doodle-bug.vercel.app/api/card/stats?username=tarinagarwal&show=followers,merged&theme=paper" alt="GitHub stats" height="215"/></a>
-<a href="https://github.com/tarinagarwal"><img src="https://doodle-bug.vercel.app/api/card/streak?username=tarinagarwal&theme=sticky" alt="Streak" height="215"/></a>
+<a href="https://github.com/tarinagarwal"><img src="https://doodle-bug.vercel.app/api/card/stats?username=tarinagarwal&show=followers,merged&theme=paper" alt="GitHub stats" height="185"/></a>
+<a href="https://github.com/tarinagarwal"><img src="https://doodle-bug.vercel.app/api/card/streak?username=tarinagarwal&theme=sticky" alt="Streak" height="185"/></a>
 
-<a href="https://github.com/tarinagarwal"><img src="https://doodle-bug.vercel.app/api/card/langs?username=tarinagarwal&theme=notebook&layout=donut&langs_count=6&hide=html,css,jupyter%20notebook" alt="Top languages" height="215"/></a>
-<a href="https://github.com/tarinagarwal"><img src="https://doodle-bug.vercel.app/api/card/graph?username=tarinagarwal&theme=midnight&days=45" alt="Activity graph" height="215"/></a>
+<a href="https://github.com/tarinagarwal"><img src="https://doodle-bug.vercel.app/api/card/langs?username=tarinagarwal&theme=notebook&layout=donut&langs_count=6&hide=html,css,jupyter%20notebook" alt="Top languages" height="200"/></a>
+<a href="https://github.com/tarinagarwal"><img src="https://doodle-bug.vercel.app/api/card/graph?username=tarinagarwal&theme=midnight&days=45" alt="Activity graph" height="200"/></a>
 
 <a href="https://github.com/tarinagarwal"><img src="https://doodle-bug.vercel.app/api/card/trophies?username=tarinagarwal&theme=chalkboard" alt="Trophies"/></a>
 
@@ -57,7 +57,7 @@
 <td width="50%"><a href="https://github.com/tarinagarwal/Topgalaxy"><img src="https://doodle-bug.vercel.app/api/card/repo?username=tarinagarwal&repo=Topgalaxy&theme=ocean" alt="Top Galaxy" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/tarinagarwal/GhostAudit"><img src="https://doodle-bug.vercel.app/api/card/repo?username=tarinagarwal&repo=GhostAudit&theme=candy" alt="GhostAudit" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/tarinagarwal/Pigeon"><img src="https://doodle-bug.vercel.app/api/card/repo?username=tarinagarwal&repo=Pigeon&theme=candy" alt="Pigeon" width="100%"/></a></td>
 <td width="50%"><a href="https://github.com/tarinagarwal/Gameathon-Pineapples"><img src="https://doodle-bug.vercel.app/api/card/repo?username=tarinagarwal&repo=Gameathon-Pineapples&theme=graphite" alt="Dimensional Dead" width="100%"/></a></td>
 </tr>
 <tr>
