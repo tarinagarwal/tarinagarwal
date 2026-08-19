@@ -15,20 +15,14 @@
 
 <br/>
 
-<table align="center" border="0">
-<tr>
-<td valign="top" width="52%">
+<div align="center">
 
-<img src="https://doodlebug.tarinagarwal.in/api/card/note?text=Hi!%20I%27m%20Tarin.%20I%20ship%20real%20products%20%E2%80%94%20not%20just%20demos.%20Currently%20building%20LGTM%2C%20an%20AI%20code%20review%20%2B%20CI%2FCD%20security%20SaaS%2C%20and%20Edulume%2C%20an%20AI%20EdTech%20platform%20used%20by%201K%2B%20learners.%20I%20love%20LLM%20pipelines%2C%20backend%20systems%2C%20and%20the%20occasional%20game%20engine%20rabbit%20hole.&author=tarin&theme=sticky&width=460&size=17" alt="hello" width="100%"/>
+<img src="https://doodlebug.tarinagarwal.in/api/card/note?text=Hi!%20I%27m%20Tarin.%20I%20ship%20real%20products%20%E2%80%94%20not%20just%20demos.%20Currently%20building%20LGTM%2C%20an%20AI%20code%20review%20%2B%20CI%2FCD%20security%20SaaS%2C%20and%20Edulume%2C%20an%20AI%20EdTech%20platform%20used%20by%201K%2B%20learners.%20I%20love%20LLM%20pipelines%2C%20backend%20systems%2C%20and%20the%20occasional%20game%20engine%20rabbit%20hole.&author=tarin&theme=sticky&width=460&size=17" alt="hello" width="70%"/>
 
-</td>
-<td valign="top" width="48%">
 
-<img src="https://doodlebug.tarinagarwal.in/api/card/repo?username=tarinagarwal&repo=edulume&theme=sakura" alt="Edulume" width="100%"/>
+</div>
 
-</td>
-</tr>
-</table>
+<br/>
 
 <div align="center">
 
