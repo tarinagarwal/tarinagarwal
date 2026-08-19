@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://doodlebug.tarinagarwal.in/api/card/note?text=Hi!%20I%27m%20Tarin.%20I%20ship%20real%20products%20%E2%80%94%20not%20just%20demos.%20Currently%20building%20LGTM%2C%20an%20AI%20code%20review%20%2B%20CI%2FCD%20security%20SaaS.%20I%20love%20LLM%20pipelines%2C%20backend%20systems%2C%20and%20the%20occasional%20game%20engine%20rabbit%20hole.&author=tarin&theme=sticky&width=460&size=17" alt="hello" width="50%"/>
+<img src="https://doodlebug.tarinagarwal.in/api/card/note?text=Hi!%20I%27m%20Tarin.%20I%20ship%20real%20products%20%E2%80%94%20not%20just%20demos.%20Currently%20building%20LGTM%2C%20an%20AI%20code%20review%20%2B%20CI%2FCD%20security%20SaaS.%20I%20love%20LLM%20pipelines%2C%20backend%20systems%2C%20and%20the%20occasional%20game%20engine%20rabbit%20hole.&author=tarin&theme=sticky&width=900&size=17" alt="hello" width="100%"/>
 
 
 </div>
