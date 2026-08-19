@@ -1,4 +1,8 @@
 <div align="center">
+<sub>All cards are hand-drawn SVGs generated live by <a href="https://doodlebug.tarinagarwal.in"><b>Doodlebug</b></a> — a little tool I built. Want yours? <a href="https://doodlebug.tarinagarwal.in">doodlebug.tarinagarwal.in</a> ✎</sub>
+</div>
+<br/>
+<div align="center">
 
 <a href="https://tarinagarwal.in"><img src="https://doodlebug.tarinagarwal.in/api/card/banner?username=tarinagarwal&name=Tarin%20Agarwal&text=full-stack%20dev%20%C2%B7%20AI%20engineer%20%C2%B7%20game%20dev%20%C2%B7%2012x%20hackathon%20winner&subtitle=building%20LGTM%20%26%20Edulume%20%C2%B7%20B.Tech%20CSE%20%40%20BMSIT%2C%20Bengaluru&icons=code,rocket,cat,bolt,coffee,star,heart,branch,sparkle,trophy&theme=paper" alt="Tarin Agarwal" width="100%"/></a>
 
@@ -6,7 +10,6 @@
 <a href="https://linkedin.com/in/tarin-agarwal-810793267"><img src="https://doodlebug.tarinagarwal.in/api/card/link?label=LinkedIn&sub=tarin-agarwal&icon=linkedin&theme=ocean" alt="LinkedIn" height="64"/></a>
 <a href="mailto:tarinagarwal@gmail.com"><img src="https://doodlebug.tarinagarwal.in/api/card/link?label=Email&sub=tarinagarwal%40gmail.com&icon=mail&theme=sakura" alt="Email" height="64"/></a>
 <a href="https://looksgoodtomeow.in"><img src="https://doodlebug.tarinagarwal.in/api/card/link?label=LGTM&sub=looksgoodtomeow.in&icon=cat&theme=forest" alt="LGTM" height="64"/></a>
-<a href="https://edulume.site"><img src="https://doodlebug.tarinagarwal.in/api/card/link?label=Edulume&sub=edulume.site&icon=book&theme=candy" alt="Edulume" height="64"/></a>
 
 </div>
 
@@ -82,6 +85,4 @@
 
 <br/>
 
-<div align="center">
-<sub>All cards are hand-drawn SVGs generated live by <a href="https://doodlebug.tarinagarwal.in"><b>Doodlebug</b></a> — a little tool I built. Want yours? <a href="https://doodlebug.tarinagarwal.in">doodlebug.tarinagarwal.in</a> ✎</sub>
-</div>
+
