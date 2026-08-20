@@ -4,7 +4,7 @@
 <br/>
 <div align="center">
 
-<a href="https://tarinagarwal.in"><img src="https://doodlebug.tarinagarwal.in/api/card/banner?username=tarinagarwal&name=Tarin%20Agarwal&text=full-stack%20dev%20%C2%B7%20AI%20engineer%20%C2%B7%20game%20dev%20%C2%B7%2012x%20hackathon%20winner&subtitle=building%20LGTM%20%26%20Edulume%20%C2%B7%20B.Tech%20CSE%20%40%20BMSIT%2C%20Bengaluru&icons=code,rocket,cat,bolt,coffee,star,heart,branch,sparkle,trophy&theme=paper" alt="Tarin Agarwal" width="100%"/></a>
+<a href="https://tarinagarwal.in"><img src="https://doodlebug.tarinagarwal.in/api/card/banner?username=tarinagarwal&name=Tarin%20Agarwal&text=full-stack%20dev%20%C2%B7%20AI%20engineer%20%C2%B7%20game%20dev%20%C2%B7%2012x%20hackathon%20winner&subtitle=building%20LGTM%20%26%20DevsBazaar%20%C2%B7%20B.Tech%20CSE%20%40%20BMSIT%2C%20Bengaluru&icons=code,rocket,cat,bolt,coffee,star,heart,branch,sparkle,trophy&theme=paper" alt="Tarin Agarwal" width="100%"/></a>
 
 <a href="https://tarinagarwal.in"><img src="https://doodlebug.tarinagarwal.in/api/card/link?label=Portfolio&sub=tarinagarwal.in&icon=globe&theme=paper" alt="Portfolio" height="64"/></a>
 <a href="https://linkedin.com/in/tarin-agarwal-810793267"><img src="https://doodlebug.tarinagarwal.in/api/card/link?label=LinkedIn&sub=tarin-agarwal&icon=linkedin&theme=ocean" alt="LinkedIn" height="64"/></a>
