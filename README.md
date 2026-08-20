@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<a href="https://github.com/tarinagarwal"><img src="https://doodlebug.tarinagarwal.in/api/card/stats?username=tarinagarwal&show=merged,reviews,followers,repos,forks&theme=paper" alt="GitHub stats" height="185"/></a>
+<a href="https://github.com/tarinagarwal"><img src="https://doodlebug.tarinagarwal.in/api/card/stats?username=tarinagarwal&show=merged,reviews&theme=paper" alt="GitHub stats" height="185"/></a>
 <a href="https://github.com/tarinagarwal"><img src="https://doodlebug.tarinagarwal.in/api/card/streak?username=tarinagarwal&theme=sticky" alt="Streak" height="185"/></a>
 
 <a href="https://github.com/tarinagarwal"><img src="https://doodlebug.tarinagarwal.in/api/card/langs?username=tarinagarwal&theme=notebook&layout=donut&langs_count=6&hide=html,css,jupyter%20notebook" alt="Top languages" height="200"/></a>
